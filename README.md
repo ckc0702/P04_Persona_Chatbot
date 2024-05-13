@@ -7,3 +7,11 @@ Dataset: CONVAI2 dataset
 
 Diagram below is the proposed architecture:
 ![image](https://github.com/ckc0702/P04_Persona_Chatbot/assets/59757087/67b0e0a0-9691-4241-8c14-ba489be97a0e)
+
+Benchmark:
+
+Hits@1 - 81.49
+
+Perplexity - 9.36
+
+F1 - 21.47
